@@ -34,12 +34,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![Video Walkthrough Giphy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHFqYWJocWZjdWwzaHFneWd6d3hzb3RscTViZmg5aWRpYjhpczl1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1siI6sbEPJyBSmpFTK/giphy.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with [Kap](https://getkap.co/) for macOS and Giphy.
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
