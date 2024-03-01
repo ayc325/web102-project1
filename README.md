@@ -1,32 +1,42 @@
-# Web Development Project 1 - *Kpop Group Listings*
+# Web Development Project 1 - *Easy Kpop Dances to Learn*
 
 Submitted by: **Angela Cui**
 
-This web app: **Displays cards for my favorite Kpop Groups and the Call-to-Action button leads to the groups' Instagram page**
+This web app: **Displays cards for the top 10 easiest Kpop dances to learn for a community of beginners that want to get into Kpop dancing' Instagram page**
 
-Time spent: **X** hours spent in total
+Twice: TT, Cheer Up, Likey
+GG: Boom Boom, Flower, Ddu-du Ddu-du
+BTS: Go Go, Just One Day, Anpanman
+BG: Really Really, Bang Bang Bang, Just Right
+
+
+Time spent: **4** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **There is a unique theme for events or resources relevant to a specific community**
-- [ ] **At least 10 unique resources or events are displayed in a responsive card format**
+- [X] **There is a unique theme for events or resources relevant to a specific community**
+- [X] **At least 10 unique resources or events are displayed in a responsive card format**
 
 The following **optional** features are implemented:
 
-- [ ] Buttons or links to a related resources are on each card component
+- [X] Buttons or links to a related resources are on each card component
 - [ ] The site is responsive for both desktop and mobile formats
 
 The following **additional** features are implemented:
 
 * [ ] List anything else that you added to improve the site's functionality!
+* [X] Embeded Youtube Videos
+* [X] 2 extra resources
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -38,6 +48,13 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Some challenges I had included getting the grid to show up properly. Originally, all my cards just stacked on top of each other. I fixed this by adding a `<td></td>` tag surrounding each Card component.
+
+## Running the app
+
+* npm install
+* npm run dev
 
 ## License
 
